@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/mgechev/ngx-gh.git/issues"
   },
-  "homepage": "https://github.com/gechev/ngx-gh#readme",
+  "homepage": "https://github.com/mgechev/ngx-gh#readme",
   "devDependencies": {
     "@angular-devkit/architect": "^0.800.6",
     "@angular-devkit/core": "^8.0.6",
